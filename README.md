@@ -1,1 +1,0 @@
-# LKPD_AWS
